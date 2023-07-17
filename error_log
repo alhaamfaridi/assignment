@@ -1,0 +1,4 @@
+[25-Jan-2022 12:34:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/rhdmzyzf/public_html/Ewallet/updateevent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rhdmzyzf/public_html/Ewallet/updateevent.php on line 8
